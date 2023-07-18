@@ -6,3 +6,5 @@ heroImage: "/placeholder-hero.jpg"
 ---
 
 This is some dummy content to test out my website! :D
+
+# This is an h1 heading!
